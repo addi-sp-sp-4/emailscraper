@@ -1,0 +1,35 @@
+{
+
+  "search_engines": {
+    "available_search_engines": [
+      "google",
+      "duckduckgo",
+      "yahoo",
+      "bing",
+      "yandex"
+    ]
+  },
+
+  "config": {
+
+    "dummy_headers": {
+
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0",
+      "Accept": "text/html,text/javascript",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate, br"
+
+    },
+
+    "pages": {
+      "page-number": 10
+    },
+
+    "random-terms": {
+      "random-term-number": 10,
+      "dictionary": "/usr/share/dict/words"
+    }
+
+  }
+
+}
